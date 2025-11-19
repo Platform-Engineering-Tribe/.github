@@ -21,6 +21,10 @@ Platform Engineering at Nagarro specializes in:
 - **Quality Engineering** - Load testing frameworks and performance tooling
 - **Developer Experience** - Configuration standards and productivity tools
 
+## Our Methodoligy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OhmRmMsGdQ" frameborder="0" allowfullscreen></iframe>
+
 ## Featured Repositories
 
 ### Infrastructure & Deployment
