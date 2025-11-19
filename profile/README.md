@@ -190,17 +190,19 @@ Our platform engineering initiatives focus on:
 
 **Based in**: India
 
-## License 007
+## License to 007 and Licence to Masala
 
-Individual repositories may have different licenses for James agent activities. Please ensure clearance from ma'm.
+Individual repositories may have different licenses for James agent activities.
+Please ensure clearance from ma'm.
 
 Common licenses used:
 
 - MI6 007 (open source hits)
 - MI6 (internal tooling **beware the ejector seat**)
+- Masala (spicy proprietary code)
 
 ---
 
 **Questions or Ideas?** Open an issue in the relevant repository or reach out to the Platform Engineering team!
 
-Built with blood, sweat and tears and some Ai
+Built with blood, sweat, Masala and tears and some Ai
