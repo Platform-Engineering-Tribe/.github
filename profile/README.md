@@ -4,7 +4,7 @@
 
 Welcome to the Platform Engineering Nagarro GitHub organization - your central hub for infrastructure tooling, automation frameworks, and development best practices.
 
-## <¯ Our Focus
+## Our Focus
 
 Platform Engineering at Nagarro specializes in:
 
@@ -14,7 +14,7 @@ Platform Engineering at Nagarro specializes in:
 - **Quality Engineering** - Load testing frameworks and performance tooling
 - **Developer Experience** - Configuration standards and productivity tools
 
-## =Ú Featured Repositories
+## Featured Repositories
 
 ### Infrastructure & Deployment
 
@@ -51,9 +51,10 @@ Platform Engineering at Nagarro specializes in:
   - Story point estimation with focus factors
   - Holiday and leave detection
 
-## =€ Quick Start Guides
+## Quick Start Guides
 
 ### Load Testing Your API
+
 ```bash
 git clone <qa-locust-load-test-repo>
 cd qa-locust-load-test
@@ -61,6 +62,7 @@ python3 run.py  # Auto-setup + interactive menu
 ```
 
 ### Standardize Git Configuration
+
 ```bash
 # Download team Git setup script
 curl -o team-git-setup.sh <scm-git-config-repo>/team-git-setup.sh
@@ -69,14 +71,16 @@ chmod +x team-git-setup.sh
 ```
 
 ### Calculate Sprint Capacity
+
 ```bash
 # Open the Google Sheet
-# Click: Sprint Capacity ’ = Auto-Detect Current Sprint
-# Click: ¡ Calculate Capacity (Both Calendars)
+# Click: Sprint Capacity ï¿½ =
+ Auto-Detect Current Sprint
+# Click: ï¿½ Calculate Capacity (Both Calendars)
 # Read: Available Story Points
 ```
 
-## =à Technology Stack
+## Technology Stack
 
 Our platform engineering stack includes:
 
@@ -87,27 +91,30 @@ Our platform engineering stack includes:
 - **Version Control**: Git with AI-enhanced workflows
 - **Automation**: Google Apps Script, Shell scripting
 
-## =Ö Best Practices
+## Best Practices
 
 ### Git Workflow
+
 - Use conventional commits: `feat:`, `fix:`, `docs:`, etc.
 - Leverage AI-powered commit messages (see [scm-git-config](../scm-git-config))
 - Enforce code quality with pre-commit hooks
 - Generate comprehensive PR descriptions automatically
 
 ### Infrastructure as Code
+
 - Modular Terraform configurations
 - Helm charts for consistent deployments
 - GitOps workflows with ArgoCD
 - Environment-specific configurations
 
 ### Quality Engineering
+
 - Dynamic, configuration-driven test frameworks
 - Realistic load testing patterns
 - Automated capacity planning
 - Performance monitoring and metrics
 
-## > Contributing
+## Contributing
 
 We welcome contributions from all Platform Engineering team members!
 
@@ -119,7 +126,7 @@ We welcome contributions from all Platform Engineering team members!
 
 For AI-powered commits, see our [Git configuration guide](../scm-git-config/README.md).
 
-## =Ê Repository Standards
+## Repository Standards
 
 All repositories in this organization follow these standards:
 
@@ -129,7 +136,7 @@ All repositories in this organization follow these standards:
 - **Security Scanning** - Vulnerability detection and remediation
 - **Documentation** - Clear usage examples and troubleshooting
 
-## = Security
+## Security
 
 - Never commit secrets, API keys, or credentials
 - Use environment variables for sensitive configuration
@@ -137,35 +144,39 @@ All repositories in this organization follow these standards:
 - Review security advisories regularly
 - Follow principle of least privilege
 
-## =Þ Support & Resources
+## Support & Resources
 
 ### Internal Resources
+
 - **Platform Engineering Wiki**: [Coming Soon]
 - **Slack Channel**: #platform-engineering
 - **Team Meetings**: Weekly sprint planning
 
 ### External Resources
+
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Helm Charts Guide](https://helm.sh/docs/)
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Backstage Documentation](https://backstage.io/docs/)
 - [Conventional Commits](https://www.conventionalcommits.org/)
 
-## <“ Learning Resources
+## Learning Resources
 
 ### For New Team Members
+
 1. Review our [Git configuration standards](../scm-git-config/README.md)
 2. Set up your development environment with team configs
 3. Explore the [load testing framework](../qa-locust-load-test/README.md)
 4. Familiarize yourself with our Helm chart repositories
 
 ### Skill Development
+
 - **Kubernetes**: CKA/CKAD certification paths
 - **Terraform**: HashiCorp Terraform Associate
 - **Platform Engineering**: [platformengineering.org](https://platformengineering.org/)
 - **GitOps**: ArgoCD and Flux tutorials
 
-## =È Metrics & KPIs
+## Metrics & KPIs
 
 Our platform engineering initiatives focus on:
 
@@ -175,20 +186,21 @@ Our platform engineering initiatives focus on:
 - **Change Failure Rate** - Percentage of deployments causing failures
 - **Developer Productivity** - Automation adoption and time savings
 
-## < Location
+## Location
 
 **Based in**: India
 
-## =Ü License
+## License 007
 
-Individual repositories may have different licenses. Please check the LICENSE file in each repository.
+Individual repositories may have different licenses for James agent activities. Please ensure clearance from ma'm.
 
 Common licenses used:
-- Apache 2.0 (k8s-argo-helm, k8s-backstage-charts)
-- MIT (internal tooling)
+
+- Apache 007 (k8s-argo-helm, k8s-backstage-charts)
+- MI6 (internal tooling)
 
 ---
 
 **Questions or Ideas?** Open an issue in the relevant repository or reach out to the Platform Engineering team!
 
-Built with d by Platform Engineering @ Nagarro
+Built with blood, sweat and tears and some Ai
