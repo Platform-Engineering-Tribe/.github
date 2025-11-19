@@ -1,5 +1,14 @@
 # Platform Engineering Nagarro
 
+## Legend and Naming
+
+- methops = Methodology Operations - All things methodology and process `methops-sprint-calculator`
+- scm = Source Code Management  - All things Git and Git configuration e.g `scm-git-config`
+- k8s = Kubernetes - All things Kubernetes and Helm charts e.g. `k8s-argo-helm` and `k8s-backstage-charts`
+- qa = Quality Assurance - All things quality assurance tooling e.g. pre-commit, k6 and locust...
+- cloudops = Azure, AWS and GCP and any other cloud platform e.g `cloudops-azure-tf-modules`
+- tf = All things Terraform e.g. `az-tf-frontdoor`
+
 > The home of Platform Engineering
 
 Welcome to the Platform Engineering Nagarro GitHub organization - your central hub for infrastructure tooling, automation frameworks, and development best practices.
@@ -192,8 +201,7 @@ Our platform engineering initiatives focus on:
 
 ## License to 007 and Licence to Masala
 
-Individual repositories may have different licenses for James Bond agent activities.
-Please ensure clearance from ma'm.
+Individual repositories may have different licenses for James Bond agent activities. This goes for Masala clearance as well.Please ensure clearance from ma'm.
 
 Common licenses used:
 
