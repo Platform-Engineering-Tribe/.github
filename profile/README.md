@@ -23,7 +23,9 @@ Platform Engineering at Nagarro specializes in:
 
 ## Our Methodoligy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OhmRmMsGdQ" frameborder="0" allowfullscreen></iframe>
+The Twelve-Factor App is a concise methodology for building modern, cloud-ready SaaS applications that are portable, scalable, and easy to maintain, using twelve best practices for app design and deployment.
+
+[Watch "What is 12-Factor App?" on YouTube](https://www.youtube.com/watch?v=1OhmRmMsGdQ)
 
 ## Featured Repositories
 
