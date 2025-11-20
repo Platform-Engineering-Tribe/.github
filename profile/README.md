@@ -1,4 +1,4 @@
-# Platform Engineering Nagarro
+# Platform Engineering Community
 
 ## Legend and Naming Convention
 
